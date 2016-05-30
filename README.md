@@ -1,4 +1,4 @@
-# XamarinproficiencyExcercise-1
+# Xamarin Proficiency Excercise-1
 Repository contains Xamarin Android samples to detect users touch events.
 <p>
 Below are the objectives:
